@@ -2,9 +2,9 @@
 
 #This dierctory contains shell scripts that perform the following functions:
 
-0-hello_world is a script that prints “Hello, World”, followed by a new line to the standard output.
+0-hello_world is a script that prints “Hello, World”.
 
-1-confused_smiley is a script that displays a confused smiley "(Ôo)'.
+1-confused_smiley is a script that displays a confused smiley "(Ôo)".
 
 2-hellofile displays the content of the /etc/passwd file.
 
